@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428428242282",
+    "project_id": "mesrecettes-a44d6",
+    "storage_bucket": "mesrecettes-a44d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428428242282:android:dc43d37c4719d62cd04913",
+        "android_client_info": {
+          "package_name": "com.glsi.mesrecettes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428428242282-dda3j10j089fsbbnnvn3nacd82vlqbp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2DxoTT2dn-qsSIZo3CXzo-Y9EFXajCik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428428242282-dda3j10j089fsbbnnvn3nacd82vlqbp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
